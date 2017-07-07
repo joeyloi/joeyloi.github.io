@@ -70,7 +70,7 @@ a:hover {
 }
 
 .message-banner {
-	font-family: "Merriweather", "Open Sans", Helvetica Neue, Arial, sans-serif;
+	font-family: "Merriweather", Helvetica Neue, Arial, sans-serif;
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
@@ -78,7 +78,7 @@ a:hover {
 	padding-bottom: 10%;
 	width: 50%;
 	font-size: 20px;
-	line-height: 2em;
+	line-height: 1.8em;
 	color: #777777;
 }
 
