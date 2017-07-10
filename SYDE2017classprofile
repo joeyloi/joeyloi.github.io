@@ -33,6 +33,6 @@
     
     <!-- Redirect -->
 
-    <meta http-equiv="refresh" content="0" Content-Disposition="inline; filename=joeyloi.com/SYDE2017classprofile.pdf" target="_blank"/>
+    <meta http-equiv="refresh" content="0" name="content-disposition" content="inline; filename=joeyloi.com/SYDE2017classprofile.pdf" target="_blank"/>
 
   </head>
