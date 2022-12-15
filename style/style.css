@@ -66,6 +66,19 @@ a {
 	color: #777777;
 }
 
+.message-banner-home {
+	font-family: "Merriweather", Helvetica Neue, Arial, sans-serif;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15%;
+	padding-bottom: 10%;
+	width: 66%;
+	font-size: 40px;
+	line-height: 1.4em;
+	color: #777777;
+}
+
 .underline {
 	color: #777777;
 	border-bottom: 2px dotted #999999;
